@@ -1,6 +1,6 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Operaciones básicas
-Operaciones Básicas
+# Dispenzador de monedas
+Quiz Programacion
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
 
@@ -15,23 +15,23 @@ if __name__ == '__main__':
 
 <br>La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-<br>Escribe un programa que calcule área y volumen de una esfera se calcula con las siguientes fórmulas:
-<br>área = <a href="https://www.codecogs.com/eqnedit.php?latex=4\pi&space;r^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?4\pi&space;r^{2}" title="4\pi r^{2}" /></a>
-<p>volumen = <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{4\pi&space;r^{3}}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{4\pi&space;r^{3}}{3}" title="\frac{4\pi r^{3}}{3}" /></a>
-</p>
-<br>Escribe un programa que pida el valor del radio y muestre su área y su volumen.
+<br>Dada una cantidad en céntimos escribir su cambio minimizando el número de monedas de: 1 euro, 20 centimos, 5c y 1c
+
 <h2>Entrada</h2>
-Un numero el cual es el valor del radio
+Un numero el cual es el valor de los centimos
 <h2>Salida</h2>
-dos números los cuales son el área y el volumen de la esfera
+cuatro valores por linea  uno para los euros, los 20 centimos , los 5c y por ultimo los 1c
 
-<br><b>Ejemplo de ejecución del programa</b>
-<br>Dame radio: 5
-<br>Dame radio: 5
-<br>Área:  314.1592653589793
-<br>Volumen:  523.5987755982989
+<h2>Ejemplo</h2>
+<h3>Entradar</h3>
+<br>2653
 
-<p>
+<h3>Salida</h3>
+<br>26
+<br>2
+<br>2
+<br>3
+
 <br>
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
 
