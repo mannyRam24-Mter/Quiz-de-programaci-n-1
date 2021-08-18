@@ -15,22 +15,18 @@ if __name__ == '__main__':
 
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-Modifica el programa para que lea los datos El área de un triángulo cuyos lados son de longitud a, b y c se calcula como 
+Utilizando el método de aproximación sucesiva para la ecuación siguiente:
 
-     
-<br> área = raíz cuadrada(( s − a ) ( s − b ) ( s − c ) )  
+<p>$$valor = x- \frac {x^3 + 4x^2-10}{3x^2+8x}$$</p>
 
-<br>dónde <a href="https://www.codecogs.com/eqnedit.php?latex=s=\frac{a&plus;b&plus;c}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s=\frac{a&plus;b&plus;c}{2}" title="s=\frac{a+b+c}{2}" /></a>
+realice un  programa que calcule el valor de la  ecuación
+<h2>Entrada</h2>
+un número el  cual  es el valor de x
 
-Escribe un programa que pida al usuario los valores a, b y c y calcule y muestre el área del triángulo usando esta fórmula.
+<h2>Salida</h2>
+un numero los cuales es el valor de aproximación de la aproximación
+ 
 
-Ejemplo:
-```
-Dame valor a: 4
-Dame valor b: 5
-Dame valor c: 5
-Area: 9.921567416492215
-```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
 
