@@ -18,7 +18,7 @@ if __name__ == '__main__':
 <br>Dada una cantidad en céntimos escribir su cambio minimizando el número de monedas de: 1 euro, 20 centimos, 5c y 1c
 
 <h2>Entrada</h2>
-Un numero el cual es el valor de los centimos
+Un número el cual es el valor de los centimos
 <h2>Salida</h2>
 cuatro valores por linea  uno para los euros, los 20 centimos , los 5c y por ultimo los 1c
 
