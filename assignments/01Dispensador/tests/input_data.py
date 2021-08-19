@@ -5,25 +5,25 @@
 input_values = [
     (
         # Inputs
-        ["5"],
+        ["2653"],
         # Outputs
-        ["Dame radio: ", "Área: 314.1592653589793", "Volumen: 523.5987755982989"],
+        ["", "26", "2","2", "3"],
         # Error message
         "Revisa los acentos. Revisa la prioridad de operadores. Revisa los espacios entre palabras "
     ),
     (
-        # Inputs
-        ["20"],
+       # Inputs
+        ["485"],
         # Outputs
-        ["Dame radio: ", "Área: 5026.548245743669", "Volumen: 33510.32163829113"],
+        ["", "4", "4","1", "0"],
         # Error message
         "Revisa los acentos. Revisa la prioridad de operadores. Revisa los espacios entre palabras "
     ),
     (
-        # Inputs
-        ["0"],
+       # Inputs
+        ["53"],
         # Outputs
-        ["Dame radio: ", "Área: 0.0", "Volumen: 0.0"],
+        ["", "0", "2","2", "3"],
         # Error message
         "Revisa los acentos. Revisa la prioridad de operadores. Revisa los espacios entre palabras "
     )
