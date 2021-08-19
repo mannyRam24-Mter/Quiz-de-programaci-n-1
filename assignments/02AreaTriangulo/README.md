@@ -17,7 +17,7 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Utilizando el método de aproximación sucesiva para la ecuación siguiente:
 
-<p>$$valor = x- \frac {x^3 + 4x^2-10}{3x^2+8x}$$</p>
+<p><a href="https://www.codecogs.com/eqnedit.php?latex=valor=x-\frac{x^{3}&plus;4x^{-8}}{4x^{2}&plus;8x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?valor=x-\frac{x^{3}&plus;4x^{-8}}{4x^{2}&plus;8x}" title="valor=x-\frac{x^{3}+4x^{-8}}{4x^{2}+8x}" /></a>
 
 realice un  programa que calcule el valor de la  ecuación
 <h2>Entrada</h2>
