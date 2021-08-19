@@ -1,6 +1,6 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Área Triángulo
-Básicos-Área Triángulo
+# Ecuación
+Quiz de Programacion 1
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
 
